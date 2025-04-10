@@ -1,0 +1,53 @@
+{
+  "total_restaurants": 3,
+  "restaurants": [
+    {
+      "restaurant_name": "Test Restaurant",
+      "source_platform": "yelp",
+      "average_rating": 4.5,
+      "total_reviews": 5,
+      "sentiment_counts": {
+        "positive": 5,
+        "neutral": 0,
+        "negative": 0
+      },
+      "sentiment_percentages": {
+        "positive": 100.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      }
+    },
+    {
+      "restaurant_name": "Mock Restaurant",
+      "source_platform": "google",
+      "average_rating": 4.5,
+      "total_reviews": 4,
+      "sentiment_counts": {
+        "positive": 3,
+        "neutral": 1,
+        "negative": 0
+      },
+      "sentiment_percentages": {
+        "positive": 75.0,
+        "neutral": 25.0,
+        "negative": 0.0
+      }
+    },
+    {
+      "restaurant_name": "Mock Restaurant",
+      "source_platform": "tripadvisor",
+      "average_rating": 4.5,
+      "total_reviews": 3,
+      "sentiment_counts": {
+        "positive": 3,
+        "neutral": 0,
+        "negative": 0
+      },
+      "sentiment_percentages": {
+        "positive": 100.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      }
+    }
+  ]
+}

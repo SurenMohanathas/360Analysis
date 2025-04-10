@@ -1,0 +1,16 @@
+{
+  "restaurant_name": "Test Restaurant",
+  "source_platform": "yelp",
+  "average_rating": 4.5,
+  "total_reviews": 5,
+  "sentiment_counts": {
+    "positive": 5,
+    "neutral": 0,
+    "negative": 0
+  },
+  "sentiment_percentages": {
+    "positive": 100.0,
+    "neutral": 0.0,
+    "negative": 0.0
+  }
+}

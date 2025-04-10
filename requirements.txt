@@ -2,18 +2,14 @@
 psycopg2-binary==2.9.9
 SQLAlchemy==2.0.23
 
-# UI
-customtkinter==5.2.1
-ttkthemes==3.2.2
-pillow==10.0.1
-
-# LLM Integration
-anthropic==0.5.0       # For Claude models
-transformers==4.35.2   # For Hugging Face models
-torch==2.1.1
-sentencepiece==0.1.99
-huggingface_hub==0.19.4
-langchain==0.0.335     # Framework for working with LLMs
+# Minimal requirements (no UI)
+# LLM Integration - only mocked for demo
+# anthropic==0.5.0       # For Claude models
+# transformers==4.35.2   # For Hugging Face models
+# torch==2.1.1
+# sentencepiece==0.1.99
+# huggingface_hub==0.19.4
+# langchain==0.0.335     # Framework for working with LLMs
 
 # PDF Generation
 reportlab==4.0.4

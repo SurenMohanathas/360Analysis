@@ -1,0 +1,16 @@
+{
+  "restaurant_name": "Mock Restaurant",
+  "source_platform": "google",
+  "average_rating": 4.5,
+  "total_reviews": 4,
+  "sentiment_counts": {
+    "positive": 3,
+    "neutral": 1,
+    "negative": 0
+  },
+  "sentiment_percentages": {
+    "positive": 75.0,
+    "neutral": 25.0,
+    "negative": 0.0
+  }
+}
